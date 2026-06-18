@@ -1,0 +1,841 @@
+area,hour,orders,avg_delivery_min
+Agrabad,0,110,37.8
+Agrabad,1,81,38.8
+Agrabad,2,95,37.1
+Agrabad,3,86,38.3
+Agrabad,4,100,37.3
+Agrabad,5,98,38.2
+Agrabad,6,82,39.2
+Agrabad,7,124,37.3
+Agrabad,8,80,36.5
+Agrabad,9,105,37.7
+Agrabad,10,98,37.3
+Agrabad,11,92,37.2
+Agrabad,12,104,37.5
+Agrabad,13,102,39.2
+Agrabad,14,93,38.3
+Agrabad,15,90,39.5
+Agrabad,16,95,37.3
+Agrabad,17,97,38.0
+Agrabad,18,89,37.2
+Agrabad,19,77,35.5
+Agrabad,20,90,38.8
+Agrabad,21,103,38.0
+Agrabad,22,107,37.0
+Agrabad,23,97,38.8
+Amberkhana,0,49,38.6
+Amberkhana,1,45,38.2
+Amberkhana,2,47,37.5
+Amberkhana,3,49,40.3
+Amberkhana,4,43,38.2
+Amberkhana,5,42,37.5
+Amberkhana,6,46,38.3
+Amberkhana,7,31,36.0
+Amberkhana,8,50,36.7
+Amberkhana,9,38,38.8
+Amberkhana,10,36,36.2
+Amberkhana,11,41,38.4
+Amberkhana,12,42,39.2
+Amberkhana,13,53,38.3
+Amberkhana,14,36,38.8
+Amberkhana,15,46,41.9
+Amberkhana,16,34,39.2
+Amberkhana,17,34,36.3
+Amberkhana,18,44,37.2
+Amberkhana,19,41,38.0
+Amberkhana,20,37,34.1
+Amberkhana,21,38,36.2
+Amberkhana,22,35,38.6
+Amberkhana,23,34,35.6
+Banani,0,154,38.0
+Banani,1,164,37.9
+Banani,2,153,36.9
+Banani,3,152,36.4
+Banani,4,142,37.9
+Banani,5,158,37.9
+Banani,6,157,37.0
+Banani,7,155,38.3
+Banani,8,133,37.7
+Banani,9,181,37.3
+Banani,10,169,36.5
+Banani,11,176,38.4
+Banani,12,157,37.6
+Banani,13,159,39.4
+Banani,14,175,39.9
+Banani,15,148,39.8
+Banani,16,167,37.1
+Banani,17,149,38.5
+Banani,18,158,37.9
+Banani,19,133,38.2
+Banani,20,141,37.0
+Banani,21,169,37.1
+Banani,22,159,37.4
+Banani,23,175,37.3
+Bandarbazar,0,66,37.5
+Bandarbazar,1,60,35.3
+Bandarbazar,2,71,37.3
+Bandarbazar,3,88,38.8
+Bandarbazar,4,63,38.1
+Bandarbazar,5,85,39.2
+Bandarbazar,6,51,36.3
+Bandarbazar,7,59,37.5
+Bandarbazar,8,77,37.8
+Bandarbazar,9,69,38.1
+Bandarbazar,10,56,38.4
+Bandarbazar,11,70,38.6
+Bandarbazar,12,65,37.9
+Bandarbazar,13,61,41.0
+Bandarbazar,14,66,39.6
+Bandarbazar,15,63,39.4
+Bandarbazar,16,69,36.6
+Bandarbazar,17,82,37.2
+Bandarbazar,18,55,36.2
+Bandarbazar,19,64,38.4
+Bandarbazar,20,58,39.6
+Bandarbazar,21,65,36.1
+Bandarbazar,22,59,37.4
+Bandarbazar,23,89,38.1
+Bashundhara,0,162,37.7
+Bashundhara,1,160,37.5
+Bashundhara,2,145,37.0
+Bashundhara,3,169,38.2
+Bashundhara,4,147,37.1
+Bashundhara,5,138,37.2
+Bashundhara,6,165,36.6
+Bashundhara,7,132,36.6
+Bashundhara,8,162,37.7
+Bashundhara,9,157,37.5
+Bashundhara,10,138,37.3
+Bashundhara,11,137,38.6
+Bashundhara,12,160,37.5
+Bashundhara,13,138,39.6
+Bashundhara,14,166,40.4
+Bashundhara,15,148,40.1
+Bashundhara,16,150,36.8
+Bashundhara,17,152,37.8
+Bashundhara,18,139,37.1
+Bashundhara,19,132,36.5
+Bashundhara,20,176,38.1
+Bashundhara,21,146,38.9
+Bashundhara,22,162,37.6
+Bashundhara,23,162,37.6
+Boalia,0,54,36.3
+Boalia,1,56,38.0
+Boalia,2,65,37.8
+Boalia,3,58,36.5
+Boalia,4,58,37.3
+Boalia,5,66,36.5
+Boalia,6,63,38.2
+Boalia,7,62,38.3
+Boalia,8,73,37.4
+Boalia,9,67,38.3
+Boalia,10,68,37.6
+Boalia,11,64,37.4
+Boalia,12,64,37.6
+Boalia,13,68,38.5
+Boalia,14,67,38.0
+Boalia,15,67,41.1
+Boalia,16,64,37.2
+Boalia,17,65,37.3
+Boalia,18,62,37.6
+Boalia,19,54,38.5
+Boalia,20,61,37.6
+Boalia,21,71,38.4
+Boalia,22,61,37.0
+Boalia,23,61,37.9
+Chawkbazar,0,51,35.8
+Chawkbazar,1,41,39.2
+Chawkbazar,2,49,38.3
+Chawkbazar,3,64,35.6
+Chawkbazar,4,48,38.3
+Chawkbazar,5,58,37.1
+Chawkbazar,6,52,37.9
+Chawkbazar,7,49,36.0
+Chawkbazar,8,63,38.4
+Chawkbazar,9,58,40.2
+Chawkbazar,10,60,37.6
+Chawkbazar,11,53,37.6
+Chawkbazar,12,51,38.1
+Chawkbazar,13,57,40.8
+Chawkbazar,14,52,40.3
+Chawkbazar,15,69,38.1
+Chawkbazar,16,70,38.6
+Chawkbazar,17,58,36.9
+Chawkbazar,18,77,37.7
+Chawkbazar,19,59,37.7
+Chawkbazar,20,40,37.3
+Chawkbazar,21,50,37.4
+Chawkbazar,22,57,38.8
+Chawkbazar,23,55,38.2
+Daulatpur,0,36,35.6
+Daulatpur,1,41,38.3
+Daulatpur,2,39,37.9
+Daulatpur,3,43,36.7
+Daulatpur,4,29,38.6
+Daulatpur,5,44,37.4
+Daulatpur,6,35,37.7
+Daulatpur,7,41,34.7
+Daulatpur,8,31,38.0
+Daulatpur,9,36,38.0
+Daulatpur,10,36,36.6
+Daulatpur,11,33,39.5
+Daulatpur,12,50,37.6
+Daulatpur,13,34,38.2
+Daulatpur,14,48,41.2
+Daulatpur,15,46,41.3
+Daulatpur,16,40,35.5
+Daulatpur,17,42,38.0
+Daulatpur,18,48,40.1
+Daulatpur,19,48,38.5
+Daulatpur,20,40,37.5
+Daulatpur,21,44,36.9
+Daulatpur,22,33,38.6
+Daulatpur,23,42,37.3
+Dhanmondi,0,94,37.8
+Dhanmondi,1,88,36.9
+Dhanmondi,2,95,38.3
+Dhanmondi,3,111,36.8
+Dhanmondi,4,122,39.5
+Dhanmondi,5,90,36.9
+Dhanmondi,6,79,38.3
+Dhanmondi,7,126,36.4
+Dhanmondi,8,94,37.1
+Dhanmondi,9,102,36.5
+Dhanmondi,10,102,36.9
+Dhanmondi,11,115,37.8
+Dhanmondi,12,114,37.5
+Dhanmondi,13,98,40.5
+Dhanmondi,14,102,39.0
+Dhanmondi,15,109,39.8
+Dhanmondi,16,119,37.3
+Dhanmondi,17,97,37.3
+Dhanmondi,18,117,37.2
+Dhanmondi,19,79,37.8
+Dhanmondi,20,94,37.4
+Dhanmondi,21,96,36.5
+Dhanmondi,22,104,37.4
+Dhanmondi,23,121,38.5
+Farmgate,0,167,35.4
+Farmgate,1,160,38.3
+Farmgate,2,174,37.4
+Farmgate,3,162,37.3
+Farmgate,4,151,37.9
+Farmgate,5,148,37.6
+Farmgate,6,167,37.8
+Farmgate,7,162,38.2
+Farmgate,8,183,38.3
+Farmgate,9,187,38.0
+Farmgate,10,174,36.8
+Farmgate,11,144,38.0
+Farmgate,12,159,37.8
+Farmgate,13,171,39.8
+Farmgate,14,151,39.3
+Farmgate,15,200,38.4
+Farmgate,16,176,36.2
+Farmgate,17,171,37.3
+Farmgate,18,182,38.1
+Farmgate,19,172,36.2
+Farmgate,20,166,37.6
+Farmgate,21,183,36.9
+Farmgate,22,167,37.5
+Farmgate,23,165,38.1
+GEC Circle,0,66,37.1
+GEC Circle,1,47,37.4
+GEC Circle,2,63,38.0
+GEC Circle,3,74,38.2
+GEC Circle,4,49,36.3
+GEC Circle,5,64,37.1
+GEC Circle,6,68,38.1
+GEC Circle,7,71,38.4
+GEC Circle,8,57,36.9
+GEC Circle,9,53,38.2
+GEC Circle,10,61,37.5
+GEC Circle,11,56,37.8
+GEC Circle,12,46,38.7
+GEC Circle,13,50,38.7
+GEC Circle,14,73,38.9
+GEC Circle,15,70,36.9
+GEC Circle,16,50,37.7
+GEC Circle,17,53,38.5
+GEC Circle,18,50,37.1
+GEC Circle,19,59,36.5
+GEC Circle,20,68,36.5
+GEC Circle,21,60,37.7
+GEC Circle,22,58,37.4
+GEC Circle,23,66,37.5
+Gulshan,0,85,38.2
+Gulshan,1,112,36.8
+Gulshan,2,106,37.5
+Gulshan,3,93,38.6
+Gulshan,4,102,37.8
+Gulshan,5,82,39.0
+Gulshan,6,122,36.9
+Gulshan,7,101,37.3
+Gulshan,8,97,37.4
+Gulshan,9,126,38.6
+Gulshan,10,106,37.2
+Gulshan,11,101,38.1
+Gulshan,12,98,37.8
+Gulshan,13,86,41.3
+Gulshan,14,92,42.5
+Gulshan,15,111,39.1
+Gulshan,16,106,38.5
+Gulshan,17,99,36.5
+Gulshan,18,97,37.6
+Gulshan,19,108,38.0
+Gulshan,20,81,37.5
+Gulshan,21,96,38.1
+Gulshan,22,101,37.2
+Gulshan,23,86,38.1
+Halishahar,0,46,36.5
+Halishahar,1,68,37.2
+Halishahar,2,51,37.5
+Halishahar,3,56,37.6
+Halishahar,4,57,38.1
+Halishahar,5,61,38.0
+Halishahar,6,56,35.7
+Halishahar,7,48,37.8
+Halishahar,8,41,37.8
+Halishahar,9,68,37.7
+Halishahar,10,64,36.1
+Halishahar,11,55,38.5
+Halishahar,12,65,37.4
+Halishahar,13,56,39.7
+Halishahar,14,51,38.8
+Halishahar,15,58,41.5
+Halishahar,16,63,36.8
+Halishahar,17,63,36.3
+Halishahar,18,56,38.2
+Halishahar,19,48,36.9
+Halishahar,20,46,36.1
+Halishahar,21,51,39.1
+Halishahar,22,62,37.7
+Halishahar,23,71,36.9
+Kazla,0,32,38.4
+Kazla,1,37,39.0
+Kazla,2,30,36.5
+Kazla,3,39,35.4
+Kazla,4,28,37.5
+Kazla,5,34,38.2
+Kazla,6,35,37.4
+Kazla,7,30,38.4
+Kazla,8,51,36.8
+Kazla,9,33,38.2
+Kazla,10,39,36.1
+Kazla,11,37,38.0
+Kazla,12,38,37.4
+Kazla,13,33,38.2
+Kazla,14,36,41.8
+Kazla,15,29,40.1
+Kazla,16,30,37.9
+Kazla,17,44,36.9
+Kazla,18,42,37.9
+Kazla,19,32,38.5
+Kazla,20,46,36.5
+Kazla,21,27,37.2
+Kazla,22,40,38.4
+Kazla,23,33,35.1
+Khalishpur,0,42,38.4
+Khalishpur,1,47,37.5
+Khalishpur,2,35,36.9
+Khalishpur,3,33,38.1
+Khalishpur,4,47,37.6
+Khalishpur,5,45,38.8
+Khalishpur,6,45,37.3
+Khalishpur,7,31,35.4
+Khalishpur,8,32,38.0
+Khalishpur,9,35,37.8
+Khalishpur,10,42,36.5
+Khalishpur,11,35,36.2
+Khalishpur,12,38,36.9
+Khalishpur,13,39,41.9
+Khalishpur,14,49,40.9
+Khalishpur,15,35,39.0
+Khalishpur,16,42,37.5
+Khalishpur,17,37,39.4
+Khalishpur,18,39,36.6
+Khalishpur,19,42,38.2
+Khalishpur,20,47,35.3
+Khalishpur,21,41,36.0
+Khalishpur,22,45,36.5
+Khalishpur,23,30,40.1
+Khan Jahan Ali Road,0,50,36.0
+Khan Jahan Ali Road,1,45,38.6
+Khan Jahan Ali Road,2,48,35.0
+Khan Jahan Ali Road,3,50,37.9
+Khan Jahan Ali Road,4,47,37.3
+Khan Jahan Ali Road,5,55,36.7
+Khan Jahan Ali Road,6,59,38.4
+Khan Jahan Ali Road,7,63,37.8
+Khan Jahan Ali Road,8,50,36.1
+Khan Jahan Ali Road,9,49,37.4
+Khan Jahan Ali Road,10,63,37.1
+Khan Jahan Ali Road,11,51,38.2
+Khan Jahan Ali Road,12,64,39.1
+Khan Jahan Ali Road,13,53,38.9
+Khan Jahan Ali Road,14,50,41.6
+Khan Jahan Ali Road,15,70,40.7
+Khan Jahan Ali Road,16,49,36.7
+Khan Jahan Ali Road,17,63,38.3
+Khan Jahan Ali Road,18,44,39.0
+Khan Jahan Ali Road,19,50,37.1
+Khan Jahan Ali Road,20,61,36.6
+Khan Jahan Ali Road,21,55,35.9
+Khan Jahan Ali Road,22,56,37.7
+Khan Jahan Ali Road,23,53,38.0
+Khilgaon,0,235,37.5
+Khilgaon,1,200,38.0
+Khilgaon,2,187,37.8
+Khilgaon,3,198,37.2
+Khilgaon,4,234,36.7
+Khilgaon,5,180,37.6
+Khilgaon,6,211,37.5
+Khilgaon,7,202,37.3
+Khilgaon,8,227,36.9
+Khilgaon,9,199,37.8
+Khilgaon,10,181,37.4
+Khilgaon,11,225,37.3
+Khilgaon,12,206,37.9
+Khilgaon,13,223,39.8
+Khilgaon,14,221,39.5
+Khilgaon,15,200,38.8
+Khilgaon,16,205,37.9
+Khilgaon,17,229,37.3
+Khilgaon,18,185,37.4
+Khilgaon,19,218,37.9
+Khilgaon,20,211,37.9
+Khilgaon,21,209,37.4
+Khilgaon,22,197,37.9
+Khilgaon,23,206,38.0
+Khulshi,0,67,37.0
+Khulshi,1,69,36.7
+Khulshi,2,85,37.9
+Khulshi,3,65,37.5
+Khulshi,4,64,36.3
+Khulshi,5,66,37.8
+Khulshi,6,66,38.5
+Khulshi,7,74,39.1
+Khulshi,8,65,38.5
+Khulshi,9,74,37.9
+Khulshi,10,75,37.8
+Khulshi,11,74,37.1
+Khulshi,12,80,35.8
+Khulshi,13,58,41.0
+Khulshi,14,76,37.6
+Khulshi,15,90,39.4
+Khulshi,16,56,36.9
+Khulshi,17,69,37.4
+Khulshi,18,72,37.6
+Khulshi,19,60,37.4
+Khulshi,20,69,37.6
+Khulshi,21,61,37.6
+Khulshi,22,63,37.7
+Khulshi,23,69,38.1
+Lalmatia,0,74,37.8
+Lalmatia,1,57,37.2
+Lalmatia,2,72,37.7
+Lalmatia,3,68,38.8
+Lalmatia,4,73,35.6
+Lalmatia,5,56,37.8
+Lalmatia,6,77,36.4
+Lalmatia,7,66,34.6
+Lalmatia,8,58,39.8
+Lalmatia,9,86,37.6
+Lalmatia,10,67,38.3
+Lalmatia,11,76,37.7
+Lalmatia,12,67,36.5
+Lalmatia,13,67,38.4
+Lalmatia,14,70,40.5
+Lalmatia,15,67,40.2
+Lalmatia,16,75,38.1
+Lalmatia,17,67,38.8
+Lalmatia,18,66,37.8
+Lalmatia,19,87,38.1
+Lalmatia,20,75,37.7
+Lalmatia,21,60,35.6
+Lalmatia,22,78,37.2
+Lalmatia,23,62,38.1
+Mirpur,0,94,38.9
+Mirpur,1,107,39.4
+Mirpur,2,105,38.5
+Mirpur,3,113,37.7
+Mirpur,4,98,36.9
+Mirpur,5,112,37.9
+Mirpur,6,147,36.3
+Mirpur,7,113,38.9
+Mirpur,8,118,37.8
+Mirpur,9,95,37.6
+Mirpur,10,135,37.1
+Mirpur,11,115,37.7
+Mirpur,12,117,38.0
+Mirpur,13,129,40.8
+Mirpur,14,107,41.2
+Mirpur,15,116,39.9
+Mirpur,16,117,38.3
+Mirpur,17,128,37.9
+Mirpur,18,106,39.0
+Mirpur,19,107,37.6
+Mirpur,20,122,38.4
+Mirpur,21,119,36.4
+Mirpur,22,112,36.7
+Mirpur,23,120,37.0
+Mohammadpur,0,159,37.9
+Mohammadpur,1,174,37.4
+Mohammadpur,2,174,37.3
+Mohammadpur,3,181,38.7
+Mohammadpur,4,180,37.7
+Mohammadpur,5,156,38.1
+Mohammadpur,6,176,37.2
+Mohammadpur,7,173,36.7
+Mohammadpur,8,178,35.9
+Mohammadpur,9,167,37.2
+Mohammadpur,10,184,37.2
+Mohammadpur,11,191,38.1
+Mohammadpur,12,161,38.2
+Mohammadpur,13,175,40.5
+Mohammadpur,14,190,40.6
+Mohammadpur,15,171,39.7
+Mohammadpur,16,179,37.6
+Mohammadpur,17,198,37.6
+Mohammadpur,18,182,38.2
+Mohammadpur,19,175,37.0
+Mohammadpur,20,193,37.5
+Mohammadpur,21,188,37.4
+Mohammadpur,22,161,36.2
+Mohammadpur,23,191,36.5
+Motihar,0,55,36.3
+Motihar,1,62,37.6
+Motihar,2,53,36.1
+Motihar,3,66,38.0
+Motihar,4,57,36.9
+Motihar,5,67,37.9
+Motihar,6,57,35.3
+Motihar,7,66,37.7
+Motihar,8,57,36.6
+Motihar,9,81,38.3
+Motihar,10,59,38.3
+Motihar,11,54,37.2
+Motihar,12,81,36.6
+Motihar,13,64,38.6
+Motihar,14,72,42.5
+Motihar,15,81,41.5
+Motihar,16,69,37.0
+Motihar,17,61,36.4
+Motihar,18,61,37.7
+Motihar,19,52,37.3
+Motihar,20,65,37.6
+Motihar,21,89,36.8
+Motihar,22,65,36.8
+Motihar,23,71,36.5
+Motijheel,0,153,36.1
+Motijheel,1,149,36.7
+Motijheel,2,141,37.5
+Motijheel,3,141,37.4
+Motijheel,4,174,37.0
+Motijheel,5,147,37.9
+Motijheel,6,137,37.7
+Motijheel,7,141,38.0
+Motijheel,8,169,37.1
+Motijheel,9,155,37.1
+Motijheel,10,160,37.7
+Motijheel,11,146,37.2
+Motijheel,12,148,37.5
+Motijheel,13,132,40.0
+Motijheel,14,170,40.3
+Motijheel,15,165,40.1
+Motijheel,16,146,38.0
+Motijheel,17,142,37.1
+Motijheel,18,153,37.4
+Motijheel,19,151,37.2
+Motijheel,20,166,36.7
+Motijheel,21,142,37.5
+Motijheel,22,156,37.2
+Motijheel,23,162,36.8
+Nasirabad,0,37,37.0
+Nasirabad,1,49,36.9
+Nasirabad,2,38,37.9
+Nasirabad,3,41,36.2
+Nasirabad,4,38,39.6
+Nasirabad,5,35,38.2
+Nasirabad,6,61,37.3
+Nasirabad,7,40,37.0
+Nasirabad,8,37,37.7
+Nasirabad,9,43,38.2
+Nasirabad,10,44,39.0
+Nasirabad,11,49,38.2
+Nasirabad,12,37,35.6
+Nasirabad,13,54,38.6
+Nasirabad,14,54,42.5
+Nasirabad,15,40,38.9
+Nasirabad,16,41,39.2
+Nasirabad,17,44,37.4
+Nasirabad,18,42,35.8
+Nasirabad,19,40,35.1
+Nasirabad,20,48,36.7
+Nasirabad,21,51,37.2
+Nasirabad,22,41,38.4
+Nasirabad,23,37,38.5
+Old Dhaka,0,121,35.6
+Old Dhaka,1,124,36.8
+Old Dhaka,2,102,35.9
+Old Dhaka,3,117,36.5
+Old Dhaka,4,102,36.0
+Old Dhaka,5,117,38.0
+Old Dhaka,6,104,38.7
+Old Dhaka,7,93,37.9
+Old Dhaka,8,112,37.7
+Old Dhaka,9,103,38.3
+Old Dhaka,10,103,38.0
+Old Dhaka,11,114,37.0
+Old Dhaka,12,104,37.4
+Old Dhaka,13,108,39.5
+Old Dhaka,14,99,40.1
+Old Dhaka,15,129,40.0
+Old Dhaka,16,100,39.0
+Old Dhaka,17,104,36.2
+Old Dhaka,18,102,38.1
+Old Dhaka,19,101,59.8
+Old Dhaka,20,118,58.8
+Old Dhaka,21,99,58.5
+Old Dhaka,22,100,37.3
+Old Dhaka,23,116,37.6
+Panchlaish,0,49,36.4
+Panchlaish,1,67,37.1
+Panchlaish,2,64,37.8
+Panchlaish,3,68,37.0
+Panchlaish,4,64,36.6
+Panchlaish,5,67,37.2
+Panchlaish,6,73,37.2
+Panchlaish,7,61,37.1
+Panchlaish,8,72,37.0
+Panchlaish,9,72,38.4
+Panchlaish,10,79,36.0
+Panchlaish,11,68,37.2
+Panchlaish,12,75,37.8
+Panchlaish,13,70,39.8
+Panchlaish,14,57,40.1
+Panchlaish,15,60,41.3
+Panchlaish,16,63,36.6
+Panchlaish,17,71,37.7
+Panchlaish,18,74,38.0
+Panchlaish,19,74,37.9
+Panchlaish,20,66,36.8
+Panchlaish,21,65,38.1
+Panchlaish,22,65,37.9
+Panchlaish,23,76,36.9
+Shaheb Bazar,0,32,38.8
+Shaheb Bazar,1,33,39.2
+Shaheb Bazar,2,29,39.9
+Shaheb Bazar,3,35,36.4
+Shaheb Bazar,4,32,39.3
+Shaheb Bazar,5,27,35.6
+Shaheb Bazar,6,30,38.8
+Shaheb Bazar,7,42,37.8
+Shaheb Bazar,8,47,38.2
+Shaheb Bazar,9,33,35.9
+Shaheb Bazar,10,35,37.9
+Shaheb Bazar,11,31,37.5
+Shaheb Bazar,12,40,36.5
+Shaheb Bazar,13,47,40.4
+Shaheb Bazar,14,38,40.7
+Shaheb Bazar,15,26,41.9
+Shaheb Bazar,16,41,36.5
+Shaheb Bazar,17,48,38.0
+Shaheb Bazar,18,40,38.0
+Shaheb Bazar,19,34,38.3
+Shaheb Bazar,20,41,35.7
+Shaheb Bazar,21,33,40.4
+Shaheb Bazar,22,36,39.2
+Shaheb Bazar,23,31,35.5
+Shantinagar,0,95,37.3
+Shantinagar,1,114,37.7
+Shantinagar,2,104,37.0
+Shantinagar,3,97,36.9
+Shantinagar,4,96,37.1
+Shantinagar,5,105,37.7
+Shantinagar,6,102,37.7
+Shantinagar,7,103,37.0
+Shantinagar,8,113,37.1
+Shantinagar,9,97,37.9
+Shantinagar,10,105,37.4
+Shantinagar,11,102,37.7
+Shantinagar,12,87,38.1
+Shantinagar,13,103,38.6
+Shantinagar,14,106,40.0
+Shantinagar,15,105,40.0
+Shantinagar,16,95,38.1
+Shantinagar,17,99,37.3
+Shantinagar,18,120,37.9
+Shantinagar,19,107,38.4
+Shantinagar,20,113,37.7
+Shantinagar,21,91,35.1
+Shantinagar,22,104,36.3
+Shantinagar,23,110,38.3
+Sonadanga,0,61,38.0
+Sonadanga,1,53,38.7
+Sonadanga,2,65,36.7
+Sonadanga,3,63,37.4
+Sonadanga,4,68,38.1
+Sonadanga,5,64,37.6
+Sonadanga,6,80,38.0
+Sonadanga,7,54,37.1
+Sonadanga,8,54,37.7
+Sonadanga,9,56,36.9
+Sonadanga,10,70,38.0
+Sonadanga,11,64,37.8
+Sonadanga,12,45,36.2
+Sonadanga,13,59,40.8
+Sonadanga,14,60,40.1
+Sonadanga,15,58,39.8
+Sonadanga,16,64,38.4
+Sonadanga,17,56,38.2
+Sonadanga,18,73,38.1
+Sonadanga,19,59,37.1
+Sonadanga,20,70,38.6
+Sonadanga,21,60,37.3
+Sonadanga,22,78,38.6
+Sonadanga,23,59,36.6
+Subid Bazar,0,62,40.5
+Subid Bazar,1,60,37.6
+Subid Bazar,2,54,37.9
+Subid Bazar,3,65,36.8
+Subid Bazar,4,67,36.6
+Subid Bazar,5,67,36.3
+Subid Bazar,6,66,36.6
+Subid Bazar,7,61,39.4
+Subid Bazar,8,56,37.1
+Subid Bazar,9,56,35.4
+Subid Bazar,10,68,38.6
+Subid Bazar,11,60,36.8
+Subid Bazar,12,58,37.2
+Subid Bazar,13,71,39.7
+Subid Bazar,14,59,37.9
+Subid Bazar,15,68,40.8
+Subid Bazar,16,67,38.0
+Subid Bazar,17,59,35.4
+Subid Bazar,18,57,38.5
+Subid Bazar,19,76,38.3
+Subid Bazar,20,71,39.1
+Subid Bazar,21,57,38.1
+Subid Bazar,22,72,38.1
+Subid Bazar,23,49,39.2
+Tejgaon,0,108,37.9
+Tejgaon,1,126,37.0
+Tejgaon,2,130,37.2
+Tejgaon,3,127,37.7
+Tejgaon,4,132,37.3
+Tejgaon,5,147,36.9
+Tejgaon,6,122,37.1
+Tejgaon,7,120,38.0
+Tejgaon,8,137,37.3
+Tejgaon,9,149,36.9
+Tejgaon,10,124,36.8
+Tejgaon,11,113,38.7
+Tejgaon,12,112,38.1
+Tejgaon,13,153,40.4
+Tejgaon,14,115,38.3
+Tejgaon,15,118,40.1
+Tejgaon,16,136,37.3
+Tejgaon,17,127,38.5
+Tejgaon,18,131,37.5
+Tejgaon,19,139,38.0
+Tejgaon,20,126,37.5
+Tejgaon,21,139,38.0
+Tejgaon,22,119,37.0
+Tejgaon,23,145,37.4
+Uposhohor,0,37,38.5
+Uposhohor,1,34,35.9
+Uposhohor,2,45,35.6
+Uposhohor,3,37,35.9
+Uposhohor,4,56,37.7
+Uposhohor,5,40,36.9
+Uposhohor,6,45,36.7
+Uposhohor,7,52,37.5
+Uposhohor,8,49,38.2
+Uposhohor,9,54,36.0
+Uposhohor,10,53,38.0
+Uposhohor,11,40,38.3
+Uposhohor,12,53,37.4
+Uposhohor,13,52,39.8
+Uposhohor,14,50,40.7
+Uposhohor,15,49,39.5
+Uposhohor,16,48,37.7
+Uposhohor,17,44,37.5
+Uposhohor,18,40,36.9
+Uposhohor,19,27,38.1
+Uposhohor,20,46,38.9
+Uposhohor,21,56,38.3
+Uposhohor,22,50,39.5
+Uposhohor,23,58,36.0
+Uttara,0,182,38.1
+Uttara,1,160,36.8
+Uttara,2,154,38.0
+Uttara,3,182,36.8
+Uttara,4,177,36.6
+Uttara,5,154,36.8
+Uttara,6,138,36.5
+Uttara,7,184,36.5
+Uttara,8,149,37.0
+Uttara,9,165,36.9
+Uttara,10,161,38.4
+Uttara,11,179,38.1
+Uttara,12,163,37.8
+Uttara,13,170,39.3
+Uttara,14,172,39.4
+Uttara,15,187,40.7
+Uttara,16,163,37.9
+Uttara,17,188,37.8
+Uttara,18,155,37.5
+Uttara,19,189,36.9
+Uttara,20,157,37.5
+Uttara,21,157,37.1
+Uttara,22,193,37.5
+Uttara,23,170,37.5
+Wari,0,107,37.6
+Wari,1,100,37.0
+Wari,2,110,37.6
+Wari,3,110,38.3
+Wari,4,86,39.0
+Wari,5,104,37.7
+Wari,6,102,38.5
+Wari,7,107,37.4
+Wari,8,129,37.4
+Wari,9,113,37.4
+Wari,10,96,38.3
+Wari,11,117,37.4
+Wari,12,124,37.7
+Wari,13,98,40.0
+Wari,14,111,38.9
+Wari,15,118,40.4
+Wari,16,110,37.4
+Wari,17,106,38.3
+Wari,18,103,37.1
+Wari,19,125,37.2
+Wari,20,109,36.4
+Wari,21,126,36.8
+Wari,22,104,36.7
+Wari,23,105,37.6
+Zindabazar,0,45,39.5
+Zindabazar,1,47,39.2
+Zindabazar,2,44,36.4
+Zindabazar,3,37,38.4
+Zindabazar,4,43,36.4
+Zindabazar,5,37,36.5
+Zindabazar,6,53,39.8
+Zindabazar,7,50,37.7
+Zindabazar,8,37,36.2
+Zindabazar,9,44,36.8
+Zindabazar,10,50,38.1
+Zindabazar,11,40,38.4
+Zindabazar,12,42,36.6
+Zindabazar,13,31,39.2
+Zindabazar,14,42,42.1
+Zindabazar,15,41,40.0
+Zindabazar,16,42,36.2
+Zindabazar,17,49,37.2
+Zindabazar,18,53,39.1
+Zindabazar,19,41,35.9
+Zindabazar,20,50,37.2
+Zindabazar,21,42,38.6
+Zindabazar,22,38,39.3
+Zindabazar,23,44,36.5

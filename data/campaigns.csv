@@ -1,0 +1,13 @@
+campaign_id,campaign_name,start_date,end_date,discount_percent,target_cities
+CMP001,New Year Feast 2025,2025-01-01,2025-01-10,25,All
+CMP002,Pohela Boishakh Special,2025-04-12,2025-04-15,30,"Dhaka,Chittagong"
+CMP003,Summer Cooler,2025-05-01,2025-05-15,15,All
+CMP004,Eid-ul-Fitr Bonanza,2025-03-28,2025-04-02,35,All
+CMP005,Student Discount Week,2025-06-10,2025-06-20,20,Dhaka
+CMP006,Monsoon Munchies,2025-07-15,2025-07-31,40,All
+CMP007,Independence Day Treat,2025-08-15,2025-08-17,25,All
+CMP008,Eid-ul-Azha Special,2025-06-06,2025-06-09,30,All
+CMP009,Weekend Warrior,2025-09-01,2025-09-30,18,"Dhaka,Chittagong,Sylhet"
+CMP010,First Order Free Delivery,2025-02-01,2025-02-28,0,All
+CMP011,Late Night Cravings,2025-10-01,2025-10-31,22,Dhaka
+CMP012,Winter Warmers,2025-11-15,2025-12-15,20,All

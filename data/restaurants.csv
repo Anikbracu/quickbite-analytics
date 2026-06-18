@@ -1,0 +1,501 @@
+restaurant_id,restaurant_name,city,area,cuisine_type,tier,avg_rating,partner_since
+R0001,Chittagong Restaurant,Chittagong,Agrabad,Indian,Standard,3.7,2022-08-05
+R0002,Royal Restaurant,Dhaka,Bashundhara,Bangladeshi,Standard,3.3,2022-12-28
+R0003,Hot Corner,Dhaka,Uttara,Chinese,Standard,3.9,2022-12-09
+R0004,Padma Dhaba,Chittagong,GEC Circle,Chinese,Standard,4.7,2022-08-30
+R0005,Sultan's Hut,Chittagong,Agrabad,Bangladeshi,Standard,4.2,2023-06-19
+R0006,Hot Dhaba,Dhaka,Shantinagar,Biryani & Kebab,Standard,3.5,2023-07-16
+R0007,Bengal House,Chittagong,Agrabad,Chinese,Budget,3.2,2022-12-28
+R0008,Dhaka Cafe,Sylhet,Subid Bazar,Biryani & Kebab,Standard,4.3,2023-02-19
+R0009,Haji Palace,Chittagong,Agrabad,Fast Food,Premium,3.6,2023-01-16
+R0010,Padma Diner,Chittagong,Panchlaish,Bangladeshi,Standard,4.7,2022-03-28
+R0011,Crispy Biryani,Dhaka,Mohammadpur,Biryani & Kebab,Standard,3.3,2023-05-04
+R0012,Chittagong Biryani,Chittagong,GEC Circle,Bangladeshi,Standard,4.0,2024-05-22
+R0013,Jamuna Hut,Chittagong,Khulshi,Burger,Budget,3.8,2022-12-07
+R0014,Haji Hotel,Chittagong,Chawkbazar,Bangladeshi,Standard,4.3,2023-10-18
+R0015,Spicy Dhaba,Dhaka,Tejgaon,Coffee & Bakery,Budget,4.1,2024-05-09
+R0016,Padma House,Chittagong,Panchlaish,Indian,Standard,4.0,2023-04-01
+R0017,Sylheti Palace,Dhaka,Wari,Burger,Standard,4.4,2022-10-05
+R0018,Nawabi Hut,Sylhet,Uposhohor,Fast Food,Standard,4.3,2022-09-08
+R0019,Fresh Hut,Chittagong,Panchlaish,Burger,Premium,5.0,2024-01-30
+R0020,Chittagong Garden,Sylhet,Amberkhana,Bangladeshi,Premium,4.1,2022-05-03
+R0021,Hot Hotel,Dhaka,Gulshan,Desserts,Premium,4.0,2022-07-15
+R0022,Dhaka Palace,Dhaka,Farmgate,Fast Food,Standard,4.1,2022-11-09
+R0023,Silver Palace,Dhaka,Khilgaon,Chinese,Premium,4.5,2023-12-03
+R0024,Kacchi House,Dhaka,Uttara,Fast Food,Standard,4.3,2022-04-02
+R0025,Chittagong Dhaba,Rajshahi,Boalia,Bangladeshi,Standard,4.6,2024-01-25
+R0026,Tasty Hotel,Dhaka,Old Dhaka,Bangladeshi,Premium,5.0,2023-09-25
+R0027,Golden Express,Dhaka,Bashundhara,Biryani & Kebab,Standard,4.2,2022-03-26
+R0028,Sultan's Restaurant,Dhaka,Mohammadpur,Pizza,Premium,4.4,2022-10-25
+R0029,Silver Restaurant,Dhaka,Bashundhara,Bangladeshi,Standard,4.3,2022-04-28
+R0030,Royal Hotel,Dhaka,Motijheel,Pizza,Premium,4.1,2023-01-03
+R0031,Star Kitchen,Dhaka,Uttara,Pizza,Premium,3.8,2023-08-12
+R0032,Hot Cafe,Chittagong,Nasirabad,Biryani & Kebab,Premium,4.9,2024-01-27
+R0033,Hot Bhai,Dhaka,Dhanmondi,Fast Food,Premium,4.0,2023-05-03
+R0034,Spicy House,Sylhet,Subid Bazar,Bangladeshi,Premium,4.2,2022-10-16
+R0035,Sultan's Garden,Dhaka,Farmgate,Bangladeshi,Standard,4.1,2023-01-18
+R0036,Sylheti Restaurant,Chittagong,Panchlaish,Fast Food,Standard,4.0,2023-05-04
+R0037,Silver Hut,Dhaka,Khilgaon,Chinese,Premium,4.1,2022-04-23
+R0038,Sylheti Kitchen,Dhaka,Motijheel,Bangladeshi,Budget,3.2,2023-06-27
+R0039,Silver Diner,Sylhet,Amberkhana,Biryani & Kebab,Standard,3.2,2024-04-23
+R0040,Sultan's Kitchen,Chittagong,Agrabad,Chinese,Premium,3.7,2023-02-15
+R0041,Bengal Garden,Dhaka,Motijheel,Bangladeshi,Standard,4.1,2022-11-24
+R0042,Star House,Dhaka,Old Dhaka,Bangladeshi,Budget,4.0,2023-10-21
+R0043,Golden Palace,Dhaka,Mohammadpur,Indian,Premium,4.9,2022-01-16
+R0044,Crispy Palace,Dhaka,Dhanmondi,Pizza,Standard,3.8,2022-08-19
+R0045,Star Hut,Dhaka,Mohammadpur,Burger,Standard,3.8,2022-11-23
+R0046,Fresh Biryani,Dhaka,Farmgate,Biryani & Kebab,Budget,3.2,2022-08-29
+R0047,Haji Corner,Dhaka,Banani,Desserts,Premium,4.9,2022-02-08
+R0048,Sultan's Corner,Dhaka,Khilgaon,Pizza,Budget,3.2,2022-03-02
+R0049,Meghna Dhaba,Dhaka,Farmgate,Burger,Standard,3.8,2022-12-20
+R0050,Sylheti Hut,Dhaka,Gulshan,Desserts,Standard,3.7,2024-03-02
+R0051,Sultan's Dhaba,Khulna,Sonadanga,Thai,Standard,4.1,2022-10-05
+R0052,Padma Corner,Dhaka,Mohammadpur,Indian,Premium,4.4,2024-03-05
+R0053,Golden Bhai,Rajshahi,Kazla,Bangladeshi,Budget,3.0,2024-03-18
+R0054,Golden House,Chittagong,Halishahar,Bangladeshi,Standard,3.9,2023-05-28
+R0055,Bengal Palace,Chittagong,Agrabad,Chinese,Standard,3.8,2023-04-26
+R0056,Jamuna Cafe,Dhaka,Uttara,Biryani & Kebab,Standard,4.5,2022-09-28
+R0057,Bengal Dhaba,Dhaka,Motijheel,Pizza,Standard,3.6,2022-11-23
+R0058,Spicy Express,Dhaka,Old Dhaka,Chinese,Standard,3.8,2022-09-21
+R0059,Chittagong Cafe,Dhaka,Khilgaon,Chinese,Standard,4.0,2023-04-28
+R0060,Royal Express,Dhaka,Old Dhaka,Fast Food,Budget,3.6,2023-10-06
+R0061,Tasty Corner,Dhaka,Wari,Chinese,Premium,4.1,2023-01-15
+R0062,Chittagong Kitchen,Sylhet,Zindabazar,Indian,Standard,3.3,2024-03-15
+R0063,Silver Kitchen,Dhaka,Shantinagar,Pizza,Standard,4.5,2023-12-23
+R0064,Spicy Corner,Khulna,Khan Jahan Ali Road,Fast Food,Standard,4.0,2024-05-01
+R0065,Sylheti Hotel,Dhaka,Farmgate,Fast Food,Budget,3.4,2023-01-20
+R0066,Royal Biryani,Dhaka,Uttara,Bangladeshi,Standard,4.6,2023-03-20
+R0067,Nawabi Kitchen,Dhaka,Shantinagar,Fast Food,Standard,4.1,2022-12-26
+R0068,Dhaka Diner,Dhaka,Mohammadpur,Fast Food,Standard,4.2,2023-10-15
+R0069,Crispy Corner,Chittagong,Halishahar,Bangladeshi,Premium,4.1,2024-01-11
+R0070,Fresh Restaurant,Sylhet,Bandarbazar,Fast Food,Standard,4.5,2024-01-29
+R0071,Jamuna Biryani,Dhaka,Dhanmondi,Biryani & Kebab,Budget,4.4,2022-09-14
+R0072,Crispy Cafe,Dhaka,Shantinagar,Biryani & Kebab,Premium,3.9,2022-02-12
+R0073,Star Dhaba,Dhaka,Farmgate,Fast Food,Standard,3.7,2023-08-12
+R0074,Golden Dhaba,Sylhet,Amberkhana,Indian,Standard,4.1,2022-05-08
+R0075,Meghna Restaurant,Chittagong,Agrabad,Coffee & Bakery,Budget,3.2,2022-04-17
+R0076,Fresh Kitchen,Khulna,Daulatpur,Pizza,Premium,3.9,2023-01-06
+R0077,Silver Biryani,Chittagong,Panchlaish,Thai,Budget,3.7,2023-02-03
+R0078,Haji Dhaba,Chittagong,Agrabad,Indian,Standard,4.4,2022-06-17
+R0079,Dhaka House,Rajshahi,Motihar,Biryani & Kebab,Premium,4.5,2023-01-13
+R0080,Crispy Hotel,Dhaka,Gulshan,Indian,Standard,3.3,2022-03-05
+R0081,Padma Bhai,Dhaka,Mohammadpur,Bangladeshi,Budget,4.2,2023-10-15
+R0082,Nawabi Corner,Chittagong,Chawkbazar,Biryani & Kebab,Standard,4.5,2022-10-01
+R0083,Tasty Express,Khulna,Sonadanga,Fast Food,Budget,3.2,2023-11-08
+R0084,Silver Garden,Dhaka,Shantinagar,Bangladeshi,Standard,3.8,2023-08-12
+R0085,Dhaka Hut,Dhaka,Mohammadpur,Bangladeshi,Standard,4.4,2023-02-06
+R0086,Tasty Cafe,Dhaka,Dhanmondi,Fast Food,Standard,3.6,2024-02-02
+R0087,Crispy Hut,Dhaka,Mirpur,Bangladeshi,Standard,3.3,2024-01-06
+R0088,Sylheti Dhaba,Dhaka,Mohammadpur,Chinese,Standard,5.0,2023-01-26
+R0089,Haji Restaurant,Chittagong,Nasirabad,Bangladeshi,Standard,3.9,2022-12-03
+R0090,Sultan's Diner,Chittagong,Panchlaish,Biryani & Kebab,Standard,4.5,2022-10-29
+R0091,Hot Kitchen,Dhaka,Mirpur,Bangladeshi,Premium,4.7,2023-03-03
+R0092,Kacchi Garden,Khulna,Khan Jahan Ali Road,Bangladeshi,Standard,4.1,2023-03-18
+R0093,Sylheti Diner,Dhaka,Banani,Desserts,Premium,4.8,2024-01-13
+R0094,Nawabi Hotel,Dhaka,Khilgaon,Bangladeshi,Budget,3.7,2024-05-24
+R0095,Golden Garden,Dhaka,Uttara,Bangladeshi,Budget,2.9,2022-12-17
+R0096,Fresh Bhai,Dhaka,Tejgaon,Coffee & Bakery,Budget,4.0,2022-06-04
+R0097,Royal Kitchen,Dhaka,Uttara,Bangladeshi,Premium,4.4,2023-01-08
+R0098,Star Restaurant,Dhaka,Tejgaon,Fast Food,Standard,4.0,2023-03-24
+R0099,Dhaka Corner,Chittagong,Khulshi,Bangladeshi,Standard,3.5,2022-06-28
+R0100,Crispy Dhaba,Sylhet,Zindabazar,Bangladeshi,Premium,3.8,2023-11-14
+R0101,Hot Express,Chittagong,Halishahar,Biryani & Kebab,Premium,4.8,2023-11-12
+R0102,Crispy Garden,Dhaka,Mirpur,Bangladeshi,Budget,3.6,2022-02-02
+R0103,Haji Express,Chittagong,Nasirabad,Fast Food,Standard,4.2,2024-03-17
+R0104,Meghna Corner,Dhaka,Khilgaon,Pizza,Standard,3.9,2023-06-02
+R0105,Tasty Dhaba,Dhaka,Banani,Biryani & Kebab,Budget,3.1,2023-09-15
+R0106,Jamuna Diner,Dhaka,Mohammadpur,Bangladeshi,Budget,3.4,2024-03-10
+R0107,Meghna Garden,Dhaka,Farmgate,Fast Food,Standard,4.0,2024-02-14
+R0108,Tasty House,Dhaka,Shantinagar,Biryani & Kebab,Budget,3.3,2022-02-14
+R0109,Kacchi Palace,Dhaka,Uttara,Chinese,Premium,5.0,2023-09-26
+R0110,Nawabi Express,Dhaka,Gulshan,Chinese,Standard,4.0,2023-03-30
+R0111,Tasty Restaurant,Dhaka,Farmgate,Fast Food,Standard,3.4,2023-12-11
+R0112,Royal Dhaba,Dhaka,Shantinagar,Bangladeshi,Standard,4.5,2023-10-07
+R0113,Bengal Biryani,Chittagong,Nasirabad,Pizza,Budget,3.0,2023-04-09
+R0114,Meghna Hut,Sylhet,Bandarbazar,Fast Food,Budget,3.3,2024-05-07
+R0115,Dhaka Biryani,Dhaka,Shantinagar,Biryani & Kebab,Standard,4.1,2023-01-06
+R0116,Jamuna Corner,Dhaka,Wari,Fast Food,Standard,4.6,2022-08-25
+R0117,Silver House,Dhaka,Motijheel,Desserts,Budget,3.7,2024-03-28
+R0118,Royal Diner,Sylhet,Subid Bazar,Bangladeshi,Budget,3.5,2023-05-26
+R0119,Tasty Diner,Sylhet,Bandarbazar,Thai,Premium,4.8,2024-04-20
+R0120,Sultan's Express,Rajshahi,Kazla,Indian,Standard,4.2,2022-09-16
+R0121,Golden Kitchen,Rajshahi,Shaheb Bazar,Biryani & Kebab,Standard,3.4,2023-01-15
+R0122,Jamuna Garden,Dhaka,Gulshan,Fast Food,Standard,3.8,2023-01-10
+R0123,Sylheti Express,Dhaka,Uttara,Fast Food,Standard,4.3,2023-02-01
+R0124,Golden Biryani,Dhaka,Motijheel,Bangladeshi,Standard,3.8,2023-01-24
+R0125,Bengal Bhai,Dhaka,Bashundhara,Pizza,Standard,3.5,2023-09-07
+R0126,Bengal Hotel,Chittagong,Agrabad,Burger,Standard,3.8,2022-12-24
+R0127,Sylheti Cafe,Dhaka,Khilgaon,Bangladeshi,Standard,4.4,2022-08-01
+R0128,Meghna Biryani,Dhaka,Old Dhaka,Bangladeshi,Premium,4.1,2022-07-24
+R0129,Dhaka Kitchen,Dhaka,Wari,Biryani & Kebab,Budget,3.2,2024-04-17
+R0130,Padma Hotel,Dhaka,Banani,Bangladeshi,Standard,4.3,2022-06-28
+R0131,Hot Hut,Dhaka,Lalmatia,Desserts,Budget,3.9,2022-05-21
+R0132,Sylheti Garden,Dhaka,Khilgaon,Indian,Budget,3.5,2023-08-15
+R0133,Tasty Bhai,Khulna,Khalishpur,Chinese,Standard,3.6,2024-05-22
+R0134,Bengal Cafe,Chittagong,Khulshi,Burger,Premium,4.1,2023-09-27
+R0135,Jamuna Express,Dhaka,Dhanmondi,Biryani & Kebab,Standard,4.0,2023-07-31
+R0136,Golden Cafe,Dhaka,Wari,Indian,Budget,2.7,2022-06-03
+R0137,Silver Express,Dhaka,Mirpur,Bangladeshi,Budget,3.9,2023-01-02
+R0138,Jamuna Dhaba,Dhaka,Khilgaon,Biryani & Kebab,Budget,3.8,2022-10-22
+R0139,Star Hotel,Khulna,Khan Jahan Ali Road,Bangladeshi,Standard,4.3,2023-06-03
+R0140,Crispy Restaurant,Dhaka,Lalmatia,Fast Food,Standard,4.3,2022-12-28
+R0141,Haji House,Dhaka,Shantinagar,Fast Food,Premium,4.0,2022-02-10
+R0142,Sultan's Biryani,Dhaka,Dhanmondi,Bangladeshi,Standard,4.5,2022-04-09
+R0143,Star Biryani,Chittagong,Panchlaish,Fast Food,Standard,3.9,2024-03-21
+R0144,Royal Hut,Khulna,Khan Jahan Ali Road,Biryani & Kebab,Premium,4.3,2022-08-19
+R0145,Fresh Palace,Dhaka,Khilgaon,Fast Food,Standard,3.9,2023-04-04
+R0146,Hot Biryani,Chittagong,Chawkbazar,Chinese,Standard,3.9,2022-12-01
+R0147,Silver Corner,Rajshahi,Motihar,Biryani & Kebab,Standard,3.9,2023-10-09
+R0148,Royal House,Dhaka,Banani,Chinese,Premium,4.7,2023-11-02
+R0149,Star Garden,Chittagong,Chawkbazar,Bangladeshi,Standard,3.8,2024-05-22
+R0150,Fresh Dhaba,Sylhet,Bandarbazar,Pizza,Premium,4.1,2023-07-01
+R0151,Chittagong Diner,Dhaka,Banani,Chinese,Standard,3.8,2022-06-18
+R0152,Fresh Garden,Dhaka,Uttara,Pizza,Premium,4.3,2024-05-14
+R0153,Sylheti Biryani,Rajshahi,Boalia,Bangladeshi,Budget,3.4,2023-04-25
+R0154,Nawabi Biryani,Dhaka,Khilgaon,Biryani & Kebab,Premium,4.6,2022-02-17
+R0155,Padma Kitchen,Dhaka,Bashundhara,Biryani & Kebab,Standard,3.6,2023-07-29
+R0156,Silver Cafe,Dhaka,Shantinagar,Bangladeshi,Standard,4.7,2023-10-21
+R0157,Crispy Express,Dhaka,Mirpur,Bangladeshi,Standard,4.3,2024-03-29
+R0158,Dhaka Hotel,Dhaka,Dhanmondi,Bangladeshi,Budget,3.6,2022-08-02
+R0159,Chittagong Palace,Dhaka,Gulshan,Bangladeshi,Budget,3.5,2024-05-17
+R0160,Padma Garden,Sylhet,Zindabazar,Biryani & Kebab,Standard,3.9,2023-10-29
+R0161,Jamuna Bhai,Chittagong,Khulshi,Biryani & Kebab,Premium,4.8,2023-05-20
+R0162,Jamuna Palace,Chittagong,Nasirabad,Bangladeshi,Standard,3.9,2022-05-03
+R0163,Spicy Cafe,Dhaka,Mohammadpur,Bangladeshi,Standard,4.2,2022-06-27
+R0164,Nawabi Restaurant,Dhaka,Farmgate,Chinese,Premium,5.0,2022-06-09
+R0165,Bengal Express,Dhaka,Tejgaon,Bangladeshi,Premium,4.2,2023-12-04
+R0166,Star Express,Chittagong,Chawkbazar,Bangladeshi,Standard,4.2,2024-06-07
+R0167,Sultan's Hotel,Dhaka,Old Dhaka,Fast Food,Budget,3.9,2023-06-18
+R0168,Spicy Garden,Dhaka,Wari,Biryani & Kebab,Standard,4.3,2022-09-04
+R0169,Padma Cafe,Rajshahi,Motihar,Biryani & Kebab,Budget,3.4,2022-03-23
+R0170,Fresh Diner,Dhaka,Khilgaon,Biryani & Kebab,Standard,3.9,2022-08-22
+R0171,Jamuna Kitchen,Dhaka,Banani,Burger,Standard,3.6,2022-05-12
+R0172,Meghna Bhai,Sylhet,Uposhohor,Bangladeshi,Standard,4.4,2023-07-18
+R0173,Nawabi House,Khulna,Sonadanga,Thai,Budget,4.0,2023-04-05
+R0174,Fresh Corner,Sylhet,Uposhohor,Bangladeshi,Premium,4.8,2022-08-28
+R0175,Haji Biryani,Sylhet,Uposhohor,Pizza,Premium,4.0,2023-11-11
+R0176,Hot Restaurant,Khulna,Sonadanga,Indian,Budget,3.9,2023-04-26
+R0177,Silver Hotel,Chittagong,Chawkbazar,Bangladeshi,Budget,3.1,2023-03-14
+R0178,Nawabi Diner,Dhaka,Uttara,Pizza,Premium,4.4,2023-01-24
+R0179,Spicy Diner,Dhaka,Mohammadpur,Fast Food,Standard,4.0,2022-07-13
+R0180,Kacchi Corner,Rajshahi,Kazla,Pizza,Standard,3.7,2022-03-24
+R0181,Kacchi Hut,Dhaka,Bashundhara,Coffee & Bakery,Budget,3.1,2022-06-03
+R0182,Tasty Biryani,Dhaka,Mirpur,Burger,Budget,3.0,2022-08-04
+R0183,Royal Bhai,Dhaka,Tejgaon,Bangladeshi,Standard,4.5,2023-02-02
+R0184,Bengal Restaurant,Dhaka,Bashundhara,Bangladeshi,Premium,5.0,2023-04-13
+R0185,Tasty Garden,Dhaka,Khilgaon,Indian,Premium,4.1,2024-04-12
+R0186,Haji Cafe,Dhaka,Bashundhara,Bangladeshi,Standard,4.0,2022-05-13
+R0187,Spicy Palace,Dhaka,Motijheel,Fast Food,Standard,3.5,2022-02-01
+R0188,Meghna Hotel,Khulna,Sonadanga,Indian,Standard,4.1,2022-04-15
+R0189,Haji Diner,Chittagong,Halishahar,Bangladeshi,Budget,3.3,2023-12-23
+R0190,Silver Bhai,Dhaka,Wari,Indian,Standard,4.0,2023-04-01
+R0191,Sylheti Bhai,Chittagong,Agrabad,Biryani & Kebab,Standard,4.1,2022-10-24
+R0192,Tasty Hut,Chittagong,Nasirabad,Bangladeshi,Standard,3.9,2024-03-17
+R0193,Bengal Hut,Dhaka,Bashundhara,Bangladeshi,Premium,4.2,2022-06-09
+R0194,Spicy Hotel,Dhaka,Bashundhara,Bangladeshi,Budget,3.2,2022-09-06
+R0195,Chittagong Hotel,Dhaka,Tejgaon,Chinese,Standard,4.1,2023-07-24
+R0196,Meghna Express,Dhaka,Old Dhaka,Thai,Standard,4.0,2022-04-30
+R0197,Sultan's Bhai,Dhaka,Bashundhara,Biryani & Kebab,Standard,3.7,2022-10-17
+R0198,Dhaka Garden,Dhaka,Mirpur,Chinese,Standard,4.3,2023-03-20
+R0199,Royal Palace,Khulna,Daulatpur,Bangladeshi,Standard,3.9,2024-04-22
+R0200,Meghna Palace,Chittagong,Halishahar,Chinese,Premium,4.6,2022-12-15
+R0201,Fresh House,Dhaka,Banani,Bangladeshi,Standard,4.6,2022-04-13
+R0202,Crispy House,Dhaka,Lalmatia,Biryani & Kebab,Budget,3.5,2022-07-14
+R0203,Spicy Hut,Chittagong,Khulshi,Fast Food,Budget,3.6,2022-07-19
+R0204,Star Diner,Dhaka,Banani,Biryani & Kebab,Standard,3.5,2022-07-12
+R0205,Chittagong Hut,Dhaka,Banani,Biryani & Kebab,Budget,3.7,2024-03-17
+R0206,Hot House,Chittagong,Panchlaish,Bangladeshi,Standard,3.8,2024-02-20
+R0207,Crispy Bhai,Dhaka,Tejgaon,Bangladeshi,Premium,5.0,2022-02-14
+R0208,Kacchi Express,Dhaka,Uttara,Indian,Standard,3.8,2024-04-27
+R0209,Padma Biryani,Khulna,Khan Jahan Ali Road,Bangladeshi,Budget,3.7,2023-06-21
+R0210,Padma Restaurant,Dhaka,Mohammadpur,Bangladeshi,Standard,4.2,2022-09-05
+R0211,Royal Corner,Dhaka,Old Dhaka,Burger,Standard,4.0,2024-02-25
+R0212,Nawabi Dhaba,Dhaka,Mirpur,Fast Food,Budget,4.0,2023-07-23
+R0213,Fresh Cafe,Dhaka,Bashundhara,Bangladeshi,Premium,4.7,2022-07-04
+R0214,Spicy Bhai,Khulna,Sonadanga,Indian,Premium,4.6,2022-03-12
+R0215,Padma Palace,Chittagong,Chawkbazar,Fast Food,Standard,3.9,2024-03-02
+R0216,Tasty Kitchen,Sylhet,Amberkhana,Biryani & Kebab,Standard,3.7,2024-03-25
+R0217,Chittagong Bhai,Dhaka,Farmgate,Biryani & Kebab,Budget,3.6,2024-06-08
+R0218,Fresh Express,Dhaka,Banani,Biryani & Kebab,Standard,4.0,2022-04-07
+R0219,Tasty Palace,Dhaka,Motijheel,Biryani & Kebab,Standard,4.4,2023-08-09
+R0220,Spicy Restaurant,Dhaka,Mohammadpur,Chinese,Premium,5.0,2022-12-28
+R0221,Nawabi Bhai,Dhaka,Wari,Fast Food,Budget,3.8,2024-05-04
+R0222,Royal Cafe,Rajshahi,Motihar,Fast Food,Standard,4.4,2024-06-10
+R0223,Haji Bhai,Chittagong,Chawkbazar,Thai,Budget,3.7,2023-09-09
+R0224,Kacchi Dhaba,Sylhet,Amberkhana,Burger,Standard,4.5,2024-06-01
+R0225,Hot Palace,Rajshahi,Boalia,Biryani & Kebab,Budget,3.8,2024-02-07
+R0226,Jamuna Restaurant,Dhaka,Lalmatia,Bangladeshi,Budget,3.8,2023-11-25
+R0227,Bengal Kitchen,Khulna,Sonadanga,Fast Food,Standard,4.6,2023-09-22
+R0228,Meghna House,Chittagong,Halishahar,Bangladeshi,Premium,4.1,2024-05-26
+R0229,Haji Hut,Sylhet,Uposhohor,Bangladeshi,Standard,3.8,2024-03-19
+R0230,Nawabi Palace,Dhaka,Shantinagar,Fast Food,Standard,3.5,2023-10-08
+R0231,Kacchi Biryani,Dhaka,Old Dhaka,Chinese,Standard,4.3,2022-12-05
+R0232,Golden Hut,Dhaka,Dhanmondi,Thai,Standard,4.1,2023-08-18
+R0233,Kacchi Hotel,Rajshahi,Motihar,Biryani & Kebab,Budget,3.0,2022-02-05
+R0234,Chittagong Express,Dhaka,Bashundhara,Pizza,Premium,4.5,2023-06-22
+R0235,Kacchi Restaurant,Dhaka,Shantinagar,Indian,Premium,4.1,2022-11-17
+R0236,Star Corner,Chittagong,Chawkbazar,Bangladeshi,Standard,3.8,2023-11-13
+R0237,Hot Garden,Dhaka,Farmgate,Indian,Standard,3.6,2022-09-30
+R0238,Golden Corner,Khulna,Khan Jahan Ali Road,Indian,Standard,4.2,2022-08-20
+R0239,Spicy Kitchen,Dhaka,Motijheel,Fast Food,Standard,4.1,2023-08-27
+R0240,Dhaka Bhai,Rajshahi,Boalia,Bangladeshi,Standard,4.5,2023-02-22
+R0241,Bengal Corner,Dhaka,Dhanmondi,Burger,Standard,3.8,2023-12-26
+R0242,Crispy Diner,Dhaka,Old Dhaka,Fast Food,Standard,4.2,2022-12-10
+R0243,Meghna Kitchen,Dhaka,Motijheel,Thai,Standard,3.2,2022-08-06
+R0244,Chittagong House,Dhaka,Khilgaon,Thai,Premium,4.5,2022-08-23
+R0245,Kacchi Bhai,Dhaka,Mohammadpur,Bangladeshi,Standard,3.7,2024-04-02
+R0246,Sultan's Palace,Dhaka,Wari,Chinese,Standard,3.9,2022-08-20
+R0247,Jamuna House,Dhaka,Mirpur,Pizza,Budget,3.2,2023-08-03
+R0248,Jamuna Hotel,Chittagong,Nasirabad,Chinese,Budget,3.6,2022-08-06
+R0249,Fresh Hotel,Chittagong,Agrabad,Fast Food,Budget,3.3,2023-09-09
+R0250,Sylheti House,Chittagong,Khulshi,Fast Food,Premium,4.8,2022-07-25
+R0251,Royal Garden,Dhaka,Motijheel,Fast Food,Budget,3.9,2023-05-19
+R0252,Padma Express,Chittagong,Halishahar,Burger,Standard,4.0,2023-06-04
+R0253,Dhaka Express,Sylhet,Uposhohor,Bangladeshi,Premium,4.2,2023-05-04
+R0254,Bengal Diner,Chittagong,Halishahar,Fast Food,Budget,3.7,2022-04-18
+R0255,Nawabi Cafe,Chittagong,Khulshi,Chinese,Standard,3.7,2023-04-16
+R0256,Spicy Biryani,Chittagong,Agrabad,Biryani & Kebab,Standard,3.5,2024-03-16
+R0257,Sultan's Cafe,Chittagong,GEC Circle,Biryani & Kebab,Budget,3.5,2022-09-13
+R0258,Haji Kitchen,Dhaka,Mohammadpur,Fast Food,Standard,3.6,2023-11-03
+R0259,Dhaka Restaurant,Chittagong,GEC Circle,Biryani & Kebab,Budget,3.5,2023-03-09
+R0260,Meghna Diner,Dhaka,Farmgate,Fast Food,Standard,3.9,2023-12-13
+R0261,Bengal Kitchen 261,Sylhet,Amberkhana,Burger,Standard,4.1,2023-12-12
+R0262,Hot Diner,Dhaka,Tejgaon,Bangladeshi,Standard,3.6,2023-07-24
+R0263,Jamuna Express 263,Chittagong,Chawkbazar,Chinese,Standard,4.0,2022-08-09
+R0264,Nawabi Garden,Dhaka,Khilgaon,Indian,Budget,3.9,2024-01-24
+R0265,Golden Restaurant,Rajshahi,Shaheb Bazar,Bangladeshi,Budget,3.3,2022-07-24
+R0266,Meghna Cafe,Sylhet,Zindabazar,Chinese,Premium,5.0,2022-09-15
+R0267,Chittagong Corner,Chittagong,Halishahar,Chinese,Standard,4.4,2022-05-22
+R0268,Sultan's House,Dhaka,Uttara,Fast Food,Standard,4.0,2023-05-02
+R0269,Kacchi Diner,Dhaka,Bashundhara,Indian,Standard,3.8,2023-04-14
+R0270,Chittagong Bhai 270,Dhaka,Khilgaon,Bangladeshi,Premium,4.3,2023-01-15
+R0271,Kacchi Kitchen,Dhaka,Old Dhaka,Fast Food,Budget,2.9,2024-02-11
+R0272,Crispy Kitchen,Chittagong,GEC Circle,Biryani & Kebab,Premium,4.3,2023-07-26
+R0273,Star Palace,Chittagong,Panchlaish,Chinese,Standard,4.0,2023-10-14
+R0274,Sylheti House 274,Dhaka,Farmgate,Bangladeshi,Budget,4.3,2022-03-10
+R0275,Padma Hut,Rajshahi,Motihar,Chinese,Standard,4.2,2023-12-05
+R0276,Star Cafe,Chittagong,Panchlaish,Bangladeshi,Standard,4.1,2023-04-10
+R0277,Royal Dhaba 277,Khulna,Khalishpur,Thai,Premium,4.6,2023-08-18
+R0278,Bengal Kitchen 278,Dhaka,Khilgaon,Coffee & Bakery,Premium,5.0,2024-02-01
+R0279,Golden Hotel,Dhaka,Tejgaon,Bangladeshi,Standard,4.4,2024-01-27
+R0280,Haji Garden,Chittagong,Panchlaish,Indian,Budget,4.3,2023-05-10
+R0281,Fresh Garden 281,Khulna,Daulatpur,Chinese,Standard,3.5,2024-01-20
+R0282,Star Kitchen 282,Dhaka,Bashundhara,Bangladeshi,Premium,4.6,2022-05-31
+R0283,Spicy Hotel 283,Dhaka,Motijheel,Biryani & Kebab,Premium,4.7,2023-10-14
+R0284,Sylheti Corner,Dhaka,Gulshan,Burger,Standard,4.4,2022-08-12
+R0285,Star Hut 285,Chittagong,Khulshi,Bangladeshi,Standard,4.2,2022-11-06
+R0286,Dhaka Dhaba,Chittagong,Agrabad,Chinese,Standard,3.6,2023-09-29
+R0287,Silver Dhaba,Sylhet,Zindabazar,Fast Food,Budget,3.4,2024-03-19
+R0288,Kacchi Cafe,Dhaka,Khilgaon,Desserts,Budget,3.6,2024-02-12
+R0289,Nawabi Kitchen 289,Dhaka,Bashundhara,Biryani & Kebab,Standard,4.7,2022-11-08
+R0290,Star Bhai,Khulna,Daulatpur,Biryani & Kebab,Standard,3.9,2023-12-04
+R0291,Spicy Kitchen 291,Chittagong,GEC Circle,Fast Food,Standard,3.9,2022-07-11
+R0292,Royal House 292,Sylhet,Amberkhana,Indian,Standard,3.9,2024-06-10
+R0293,Silver Kitchen 293,Dhaka,Gulshan,Indian,Budget,3.0,2023-08-13
+R0294,Tasty Express 294,Sylhet,Subid Bazar,Fast Food,Premium,4.0,2023-05-06
+R0295,Dhaka Biryani 295,Dhaka,Khilgaon,Bangladeshi,Premium,3.7,2023-06-09
+R0296,Golden Diner,Sylhet,Uposhohor,Bangladeshi,Standard,4.4,2024-06-27
+R0297,Kacchi Palace 297,Dhaka,Shantinagar,Burger,Premium,4.7,2022-06-15
+R0298,Hot Dhaba 298,Dhaka,Lalmatia,Indian,Premium,4.8,2022-07-22
+R0299,Spicy Express 299,Sylhet,Zindabazar,Biryani & Kebab,Premium,4.6,2024-01-27
+R0300,Silver Corner 300,Dhaka,Gulshan,Bangladeshi,Budget,3.4,2023-09-06
+R0301,Bengal Garden 301,Dhaka,Banani,Fast Food,Budget,3.3,2022-04-19
+R0302,Bengal Kitchen 302,Dhaka,Mirpur,Chinese,Standard,4.3,2023-12-23
+R0303,Tasty Garden 303,Dhaka,Mohammadpur,Fast Food,Standard,4.1,2022-01-11
+R0304,Spicy Dhaba 304,Dhaka,Khilgaon,Biryani & Kebab,Standard,4.2,2022-09-18
+R0305,Golden Dhaba 305,Dhaka,Old Dhaka,Fast Food,Premium,4.4,2022-10-21
+R0306,Nawabi Express 306,Dhaka,Motijheel,Bangladeshi,Premium,4.4,2023-11-08
+R0307,Golden Palace 307,Dhaka,Mohammadpur,Bangladeshi,Standard,3.7,2022-06-15
+R0308,Fresh Hut 308,Dhaka,Motijheel,Thai,Budget,3.5,2022-08-31
+R0309,Golden Restaurant 309,Dhaka,Gulshan,Chinese,Standard,3.5,2023-10-14
+R0310,Bengal Hut 310,Dhaka,Banani,Fast Food,Standard,4.5,2023-05-21
+R0311,Sylheti Garden 311,Dhaka,Wari,Biryani & Kebab,Premium,4.7,2022-08-30
+R0312,Bengal Garden 312,Dhaka,Wari,Biryani & Kebab,Budget,3.4,2022-12-26
+R0313,Tasty Hut 313,Dhaka,Uttara,Biryani & Kebab,Standard,4.1,2023-12-22
+R0314,Meghna Hotel 314,Chittagong,GEC Circle,Bangladeshi,Standard,4.0,2022-05-20
+R0315,Meghna Hotel 315,Dhaka,Khilgaon,Fast Food,Standard,4.8,2023-01-06
+R0316,Dhaka Palace 316,Sylhet,Subid Bazar,Fast Food,Premium,4.8,2022-05-31
+R0317,Dhaka Diner 317,Dhaka,Bashundhara,Bangladeshi,Premium,4.6,2023-05-05
+R0318,Spicy Biryani 318,Dhaka,Motijheel,Fast Food,Premium,3.9,2022-12-09
+R0319,Silver Garden 319,Chittagong,Khulshi,Desserts,Standard,4.2,2022-08-15
+R0320,Sultan's Hut 320,Chittagong,GEC Circle,Indian,Budget,3.4,2024-01-23
+R0321,Golden Hotel 321,Dhaka,Banani,Bangladeshi,Standard,3.8,2022-08-14
+R0322,Haji Express 322,Dhaka,Motijheel,Thai,Standard,3.9,2024-02-01
+R0323,Silver Garden 323,Sylhet,Subid Bazar,Biryani & Kebab,Budget,3.8,2022-11-10
+R0324,Sylheti Garden 324,Chittagong,Halishahar,Indian,Budget,3.7,2024-05-16
+R0325,Bengal Corner 325,Dhaka,Banani,Bangladeshi,Standard,3.6,2023-05-07
+R0326,Hot Hut 326,Rajshahi,Motihar,Fast Food,Budget,3.3,2023-12-20
+R0327,Padma Express 327,Dhaka,Wari,Bangladeshi,Standard,3.7,2024-03-24
+R0328,Hot Express 328,Dhaka,Motijheel,Chinese,Premium,4.9,2022-03-20
+R0329,Hot Cafe 329,Dhaka,Khilgaon,Bangladeshi,Budget,3.2,2022-04-21
+R0330,Crispy Hotel 330,Dhaka,Tejgaon,Bangladeshi,Budget,3.4,2023-04-19
+R0331,Fresh Corner 331,Rajshahi,Boalia,Coffee & Bakery,Standard,3.4,2022-10-07
+R0332,Crispy Dhaba 332,Dhaka,Uttara,Bangladeshi,Standard,4.3,2022-04-06
+R0333,Jamuna Express 333,Dhaka,Tejgaon,Bangladeshi,Standard,4.8,2023-04-14
+R0334,Fresh Cafe 334,Dhaka,Khilgaon,Chinese,Budget,3.2,2022-12-03
+R0335,Tasty Kitchen 335,Chittagong,Halishahar,Thai,Budget,3.4,2022-01-02
+R0336,Bengal Express 336,Chittagong,Khulshi,Fast Food,Budget,3.3,2024-04-09
+R0337,Sylheti Kitchen 337,Sylhet,Zindabazar,Bangladeshi,Premium,4.3,2023-10-07
+R0338,Tasty Express 338,Dhaka,Tejgaon,Bangladeshi,Premium,4.6,2022-10-01
+R0339,Crispy Bhai 339,Rajshahi,Shaheb Bazar,Chinese,Premium,4.6,2023-03-12
+R0340,Bengal Kitchen 340,Dhaka,Mohammadpur,Bangladeshi,Budget,3.2,2023-12-15
+R0341,Chittagong Hut 341,Chittagong,Agrabad,Desserts,Budget,3.1,2023-07-02
+R0342,Spicy Diner 342,Dhaka,Mohammadpur,Biryani & Kebab,Standard,4.0,2024-05-02
+R0343,Bengal Hotel 343,Dhaka,Banani,Burger,Standard,4.2,2024-06-10
+R0344,Silver Dhaba 344,Rajshahi,Boalia,Chinese,Budget,3.0,2022-09-12
+R0345,Royal Garden 345,Khulna,Khan Jahan Ali Road,Indian,Standard,3.4,2023-07-16
+R0346,Nawabi Palace 346,Chittagong,Khulshi,Desserts,Budget,3.2,2022-12-10
+R0347,Bengal Cafe 347,Chittagong,Panchlaish,Fast Food,Budget,3.7,2022-01-16
+R0348,Star House 348,Dhaka,Shantinagar,Bangladeshi,Standard,3.2,2023-05-25
+R0349,Silver House 349,Dhaka,Old Dhaka,Fast Food,Standard,3.5,2022-07-09
+R0350,Hot Garden 350,Dhaka,Gulshan,Indian,Standard,4.0,2023-12-31
+R0351,Jamuna Hut 351,Sylhet,Uposhohor,Bangladeshi,Premium,3.9,2024-06-08
+R0352,Silver Dhaba 352,Dhaka,Old Dhaka,Fast Food,Budget,3.5,2024-04-07
+R0353,Royal Corner 353,Sylhet,Bandarbazar,Thai,Standard,4.3,2023-07-19
+R0354,Hot Corner 354,Sylhet,Subid Bazar,Bangladeshi,Standard,3.8,2023-04-26
+R0355,Crispy House 355,Chittagong,Chawkbazar,Chinese,Premium,3.5,2022-06-22
+R0356,Tasty Corner 356,Sylhet,Subid Bazar,Pizza,Standard,3.9,2022-07-22
+R0357,Spicy Express 357,Dhaka,Uttara,Coffee & Bakery,Budget,3.7,2023-06-11
+R0358,Crispy Restaurant 358,Dhaka,Banani,Bangladeshi,Budget,3.7,2024-06-25
+R0359,Jamuna Dhaba 359,Dhaka,Lalmatia,Fast Food,Premium,4.0,2022-08-28
+R0360,Sultan's Express 360,Sylhet,Amberkhana,Burger,Budget,3.5,2024-06-02
+R0361,Dhaka Diner 361,Dhaka,Tejgaon,Bangladeshi,Standard,3.7,2022-02-11
+R0362,Meghna Express 362,Dhaka,Khilgaon,Pizza,Premium,4.0,2023-11-09
+R0363,Star Hotel 363,Dhaka,Uttara,Fast Food,Standard,4.3,2024-05-15
+R0364,Meghna Bhai 364,Dhaka,Khilgaon,Bangladeshi,Premium,4.8,2023-11-19
+R0365,Bengal Palace 365,Dhaka,Lalmatia,Fast Food,Budget,3.5,2023-06-14
+R0366,Spicy Corner 366,Chittagong,Panchlaish,Bangladeshi,Standard,4.1,2024-05-18
+R0367,Star Corner 367,Dhaka,Mirpur,Fast Food,Standard,3.3,2024-01-18
+R0368,Padma Corner 368,Chittagong,Khulshi,Pizza,Standard,3.7,2022-03-11
+R0369,Sylheti Palace 369,Rajshahi,Boalia,Biryani & Kebab,Standard,4.0,2024-06-29
+R0370,Padma Hut 370,Chittagong,Nasirabad,Fast Food,Standard,4.4,2022-11-24
+R0371,Kacchi Restaurant 371,Dhaka,Dhanmondi,Burger,Premium,4.3,2023-09-08
+R0372,Chittagong Restaurant 372,Dhaka,Uttara,Chinese,Standard,4.4,2022-09-13
+R0373,Golden Garden 373,Dhaka,Khilgaon,Bangladeshi,Standard,4.6,2022-06-07
+R0374,Dhaka Cafe 374,Dhaka,Mohammadpur,Fast Food,Standard,3.8,2024-01-10
+R0375,Kacchi Diner 375,Khulna,Sonadanga,Pizza,Standard,4.0,2022-08-02
+R0376,Tasty Express 376,Rajshahi,Boalia,Biryani & Kebab,Standard,3.8,2023-02-21
+R0377,Royal Hut 377,Chittagong,Chawkbazar,Fast Food,Standard,3.7,2022-03-01
+R0378,Jamuna Hotel 378,Dhaka,Wari,Pizza,Standard,4.5,2024-04-15
+R0379,Dhaka Kitchen 379,Dhaka,Tejgaon,Indian,Standard,4.2,2022-11-16
+R0380,Meghna House 380,Dhaka,Tejgaon,Thai,Standard,3.5,2022-06-13
+R0381,Silver Biryani 381,Chittagong,Khulshi,Biryani & Kebab,Budget,3.7,2022-03-16
+R0382,Sylheti Cafe 382,Chittagong,Agrabad,Biryani & Kebab,Premium,3.9,2023-07-28
+R0383,Sylheti Hut 383,Rajshahi,Motihar,Biryani & Kebab,Standard,4.5,2022-03-03
+R0384,Fresh Biryani 384,Dhaka,Dhanmondi,Bangladeshi,Budget,3.4,2023-11-05
+R0385,Jamuna Corner 385,Sylhet,Bandarbazar,Bangladeshi,Standard,4.6,2023-01-19
+R0386,Golden Kitchen 386,Chittagong,Halishahar,Bangladeshi,Standard,4.1,2022-10-02
+R0387,Fresh Bhai 387,Chittagong,GEC Circle,Fast Food,Budget,3.5,2023-07-08
+R0388,Chittagong Restaurant 388,Sylhet,Bandarbazar,Indian,Budget,3.5,2022-09-22
+R0389,Nawabi Palace 389,Chittagong,Agrabad,Bangladeshi,Premium,5.0,2022-12-12
+R0390,Star Diner 390,Dhaka,Farmgate,Thai,Standard,4.0,2023-04-18
+R0391,Tasty Dhaba 391,Dhaka,Banani,Biryani & Kebab,Budget,3.7,2022-05-27
+R0392,Nawabi Garden 392,Chittagong,Khulshi,Biryani & Kebab,Standard,4.4,2024-02-01
+R0393,Hot Corner 393,Dhaka,Mohammadpur,Fast Food,Standard,4.7,2022-04-13
+R0394,Silver Palace 394,Chittagong,GEC Circle,Pizza,Standard,4.4,2023-03-22
+R0395,Meghna Bhai 395,Dhaka,Wari,Burger,Standard,4.4,2023-10-19
+R0396,Silver Cafe 396,Dhaka,Khilgaon,Bangladeshi,Premium,5.0,2023-11-14
+R0397,Golden Restaurant 397,Dhaka,Bashundhara,Bangladeshi,Standard,4.2,2024-01-07
+R0398,Kacchi Cafe 398,Dhaka,Banani,Bangladeshi,Budget,3.0,2024-05-07
+R0399,Star Hotel 399,Dhaka,Mohammadpur,Indian,Standard,3.6,2022-10-23
+R0400,Padma Bhai 400,Sylhet,Zindabazar,Bangladeshi,Budget,3.8,2022-01-17
+R0401,Jamuna Bhai 401,Dhaka,Mirpur,Bangladeshi,Budget,3.5,2022-06-20
+R0402,Meghna House 402,Dhaka,Uttara,Indian,Standard,3.5,2022-03-09
+R0403,Golden Palace 403,Dhaka,Motijheel,Biryani & Kebab,Budget,3.6,2024-06-16
+R0404,Kacchi Dhaba 404,Dhaka,Mohammadpur,Bangladeshi,Premium,4.2,2022-06-22
+R0405,Dhaka Garden 405,Rajshahi,Shaheb Bazar,Fast Food,Budget,3.3,2022-01-18
+R0406,Nawabi Hut 406,Chittagong,Agrabad,Bangladeshi,Standard,4.4,2023-03-28
+R0407,Star Biryani 407,Sylhet,Bandarbazar,Bangladeshi,Standard,3.8,2023-01-16
+R0408,Haji House 408,Dhaka,Bashundhara,Bangladeshi,Premium,4.3,2022-08-09
+R0409,Haji Garden 409,Dhaka,Mirpur,Burger,Standard,4.1,2023-08-10
+R0410,Golden Restaurant 410,Chittagong,Agrabad,Biryani & Kebab,Budget,3.7,2022-12-13
+R0411,Sultan's Cafe 411,Dhaka,Gulshan,Bangladeshi,Budget,3.8,2024-06-15
+R0412,Kacchi Corner 412,Dhaka,Motijheel,Bangladeshi,Standard,3.6,2022-04-25
+R0413,Dhaka Dhaba 413,Chittagong,GEC Circle,Chinese,Premium,4.7,2022-09-26
+R0414,Padma Restaurant 414,Khulna,Khalishpur,Fast Food,Premium,3.9,2024-05-22
+R0415,Fresh Bhai 415,Dhaka,Uttara,Fast Food,Standard,4.4,2023-09-04
+R0416,Royal Dhaba 416,Chittagong,Agrabad,Pizza,Standard,4.0,2023-04-06
+R0417,Spicy Express 417,Dhaka,Farmgate,Burger,Standard,4.1,2023-07-01
+R0418,Haji Palace 418,Dhaka,Banani,Biryani & Kebab,Standard,3.9,2024-01-11
+R0419,Sultan's Dhaba 419,Sylhet,Subid Bazar,Bangladeshi,Standard,5.0,2024-03-17
+R0420,Silver Bhai 420,Sylhet,Subid Bazar,Biryani & Kebab,Standard,4.1,2022-12-04
+R0421,Nawabi Palace 421,Dhaka,Dhanmondi,Fast Food,Standard,3.5,2023-11-18
+R0422,Bengal Biryani 422,Dhaka,Mohammadpur,Biryani & Kebab,Budget,3.5,2022-01-11
+R0423,Kacchi Dhaba 423,Chittagong,GEC Circle,Bangladeshi,Premium,4.0,2023-12-12
+R0424,Tasty Hut 424,Dhaka,Khilgaon,Burger,Budget,3.8,2022-12-26
+R0425,Dhaka Diner 425,Sylhet,Subid Bazar,Bangladeshi,Standard,3.7,2022-11-19
+R0426,Tasty House 426,Dhaka,Motijheel,Pizza,Budget,3.6,2024-05-25
+R0427,Star Hotel 427,Chittagong,Chawkbazar,Pizza,Budget,3.5,2022-01-24
+R0428,Sylheti Garden 428,Dhaka,Old Dhaka,Bangladeshi,Standard,4.1,2023-08-20
+R0429,Chittagong Hotel 429,Khulna,Khalishpur,Bangladeshi,Standard,3.9,2024-04-23
+R0430,Kacchi Cafe 430,Dhaka,Mirpur,Chinese,Standard,4.0,2023-07-03
+R0431,Golden Palace 431,Dhaka,Uttara,Biryani & Kebab,Budget,3.4,2022-07-08
+R0432,Haji House 432,Dhaka,Motijheel,Fast Food,Standard,4.0,2023-10-13
+R0433,Sultan's Restaurant 433,Dhaka,Shantinagar,Fast Food,Standard,4.4,2023-04-07
+R0434,Silver Dhaba 434,Dhaka,Motijheel,Pizza,Standard,4.1,2022-06-20
+R0435,Tasty Palace 435,Rajshahi,Shaheb Bazar,Biryani & Kebab,Standard,4.5,2022-11-20
+R0436,Jamuna Dhaba 436,Dhaka,Khilgaon,Fast Food,Standard,4.1,2022-03-26
+R0437,Chittagong Bhai 437,Chittagong,Nasirabad,Chinese,Standard,4.1,2023-02-28
+R0438,Chittagong Express 438,Dhaka,Farmgate,Indian,Standard,3.7,2023-07-29
+R0439,Spicy Biryani 439,Dhaka,Mirpur,Biryani & Kebab,Premium,3.5,2022-07-08
+R0440,Hot Restaurant 440,Dhaka,Bashundhara,Fast Food,Standard,4.4,2023-06-20
+R0441,Sultan's Restaurant 441,Rajshahi,Boalia,Biryani & Kebab,Standard,4.1,2024-05-20
+R0442,Sylheti Dhaba 442,Dhaka,Farmgate,Fast Food,Budget,3.0,2022-03-30
+R0443,Haji Cafe 443,Sylhet,Bandarbazar,Coffee & Bakery,Standard,3.8,2022-01-06
+R0444,Bengal Restaurant 444,Dhaka,Farmgate,Chinese,Standard,3.9,2023-06-16
+R0445,Star Restaurant 445,Dhaka,Farmgate,Indian,Premium,4.2,2024-02-27
+R0446,Nawabi Corner 446,Dhaka,Tejgaon,Bangladeshi,Budget,3.6,2023-05-24
+R0447,Crispy Palace 447,Sylhet,Bandarbazar,Fast Food,Standard,4.5,2023-08-20
+R0448,Silver Hut 448,Chittagong,Khulshi,Indian,Standard,4.0,2023-04-08
+R0449,Dhaka Hotel 449,Dhaka,Mohammadpur,Indian,Standard,3.9,2023-11-10
+R0450,Tasty Palace 450,Dhaka,Dhanmondi,Fast Food,Premium,4.2,2023-06-21
+R0451,Silver Dhaba 451,Chittagong,Panchlaish,Biryani & Kebab,Premium,4.6,2023-11-30
+R0452,Chittagong Cafe 452,Dhaka,Farmgate,Biryani & Kebab,Budget,3.2,2023-11-21
+R0453,Tasty Restaurant 453,Chittagong,Khulshi,Fast Food,Premium,4.3,2023-02-15
+R0454,Spicy Hut 454,Rajshahi,Motihar,Indian,Budget,3.4,2023-08-11
+R0455,Sylheti House 455,Dhaka,Banani,Burger,Standard,4.7,2022-10-23
+R0456,Bengal Cafe 456,Dhaka,Mirpur,Bangladeshi,Premium,4.0,2023-11-15
+R0457,Meghna Diner 457,Chittagong,GEC Circle,Fast Food,Standard,3.7,2023-05-05
+R0458,Golden Diner 458,Dhaka,Lalmatia,Thai,Budget,3.7,2022-08-24
+R0459,Bengal Garden 459,Dhaka,Tejgaon,Bangladeshi,Standard,4.0,2023-06-03
+R0460,Hot Garden 460,Khulna,Khalishpur,Fast Food,Budget,3.1,2022-03-03
+R0461,Golden Corner 461,Dhaka,Gulshan,Biryani & Kebab,Standard,4.6,2022-06-05
+R0462,Star Palace 462,Dhaka,Farmgate,Chinese,Budget,3.3,2023-08-09
+R0463,Nawabi Hut 463,Chittagong,GEC Circle,Bangladeshi,Standard,4.3,2023-10-18
+R0464,Silver Corner 464,Sylhet,Bandarbazar,Chinese,Budget,4.0,2024-05-09
+R0465,Golden Kitchen 465,Dhaka,Farmgate,Desserts,Standard,4.5,2022-08-12
+R0466,Fresh Garden 466,Khulna,Daulatpur,Biryani & Kebab,Standard,4.8,2023-07-18
+R0467,Spicy Bhai 467,Sylhet,Bandarbazar,Pizza,Budget,3.1,2023-09-12
+R0468,Tasty Hut 468,Chittagong,Agrabad,Bangladeshi,Budget,3.1,2023-06-08
+R0469,Silver Corner 469,Rajshahi,Kazla,Thai,Standard,3.7,2024-05-14
+R0470,Sylheti Garden 470,Sylhet,Uposhohor,Biryani & Kebab,Budget,3.4,2023-01-27
+R0471,Sultan's Dhaba 471,Chittagong,Halishahar,Fast Food,Premium,4.2,2023-07-06
+R0472,Sultan's Hut 472,Dhaka,Mirpur,Biryani & Kebab,Standard,4.1,2022-10-08
+R0473,Fresh Corner 473,Dhaka,Gulshan,Fast Food,Standard,4.1,2023-04-21
+R0474,Fresh Restaurant 474,Chittagong,Agrabad,Fast Food,Budget,3.2,2023-02-06
+R0475,Jamuna Kitchen 475,Dhaka,Tejgaon,Chinese,Budget,3.6,2022-05-10
+R0476,Sultan's Cafe 476,Dhaka,Old Dhaka,Indian,Premium,4.2,2022-12-29
+R0477,Jamuna Express 477,Dhaka,Dhanmondi,Pizza,Standard,3.9,2023-07-19
+R0478,Sultan's Hotel 478,Dhaka,Uttara,Bangladeshi,Premium,4.2,2022-04-12
+R0479,Kacchi Express 479,Dhaka,Farmgate,Pizza,Standard,3.9,2024-05-30
+R0480,Sylheti Biryani 480,Dhaka,Banani,Bangladeshi,Standard,4.1,2023-08-06
+R0481,Chittagong Restaurant 481,Sylhet,Bandarbazar,Biryani & Kebab,Standard,3.6,2022-03-19
+R0482,Silver Bhai 482,Dhaka,Farmgate,Bangladeshi,Standard,4.3,2022-05-18
+R0483,Dhaka Bhai 483,Chittagong,Nasirabad,Chinese,Standard,3.7,2024-02-12
+R0484,Sylheti Palace 484,Dhaka,Uttara,Bangladeshi,Standard,4.8,2023-06-14
+R0485,Star Biryani 485,Dhaka,Uttara,Burger,Standard,3.7,2022-10-30
+R0486,Spicy Bhai 486,Dhaka,Wari,Pizza,Standard,4.0,2022-07-24
+R0487,Dhaka Garden 487,Rajshahi,Kazla,Bangladeshi,Standard,4.0,2022-02-25
+R0488,Dhaka Diner 488,Chittagong,Panchlaish,Burger,Budget,3.5,2022-10-09
+R0489,Crispy Express 489,Dhaka,Wari,Biryani & Kebab,Standard,4.1,2022-04-09
+R0490,Bengal Kitchen 490,Chittagong,Agrabad,Bangladeshi,Standard,4.1,2024-02-08
+R0491,Spicy Hotel 491,Dhaka,Bashundhara,Bangladeshi,Standard,4.5,2022-06-17
+R0492,Tasty Hotel 492,Dhaka,Lalmatia,Biryani & Kebab,Standard,3.7,2022-05-15
+R0493,Jamuna Bhai 493,Dhaka,Gulshan,Bangladeshi,Premium,4.1,2023-04-15
+R0494,Nawabi Biryani 494,Sylhet,Subid Bazar,Chinese,Premium,4.8,2023-08-30
+R0495,Nawabi Express 495,Dhaka,Lalmatia,Bangladeshi,Budget,3.1,2024-03-02
+R0496,Padma Palace 496,Dhaka,Tejgaon,Fast Food,Standard,3.5,2023-10-02
+R0497,Star Corner 497,Dhaka,Khilgaon,Chinese,Standard,3.7,2024-01-31
+R0498,Fresh Kitchen 498,Dhaka,Banani,Bangladeshi,Budget,3.6,2022-09-27
+R0499,Crispy Restaurant 499,Dhaka,Dhanmondi,Bangladeshi,Standard,4.1,2022-04-11
+R0500,Golden Kitchen 500,Dhaka,Bashundhara,Bangladeshi,Premium,4.1,2023-01-02
